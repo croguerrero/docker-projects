@@ -1,2 +1,2 @@
 # Docker Projects 
-# Performing wide projecto on DevOps Journey 
+# Performing several vast projects on DevOps Journey 
